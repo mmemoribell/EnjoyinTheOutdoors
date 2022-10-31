@@ -1,0 +1,15 @@
+header {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30pt;
+   }
+   header {
+    text-align: center;
+   }
+   body {
+    text-align: center;
+       font-family:'Courier New', Courier, monospace;
+       font-size: 30pt;
+       background-color: rgb(107, 4, 4);
+      
+   }
+   
